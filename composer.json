@@ -1,5 +1,5 @@
 {
-    "name": "mosparo/php-api-client",
+    "name": "logonetspzoo/mosparo-php-api-client",
     "description": "PHP API Client to communicate with mosparo.",
     "keywords": ["mosparo", "php", "client"],
     "type": "library",
